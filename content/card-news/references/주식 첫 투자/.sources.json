@@ -1,0 +1,60 @@
+{
+  "kind": "user_original_design_reference",
+  "content_is_not_new_post_evidence": true,
+  "cards": [
+    {
+      "number": 1,
+      "file": "01.png",
+      "sha256": "8337786373e81ebb1f325dbebfe594c83bfc4c9cdf7afe950acc0bd1a1470564",
+      "source": "/Users/kimmac/Documents/Project/돈 자동화/바이브코딩 릴스/content/reels/제작 자료/stock-png-automatic-2026-10-04-v2/Inputs/card-01.png"
+    },
+    {
+      "number": 2,
+      "file": "02.png",
+      "sha256": "5e2cb436ea96ae9833925035518e0c7739563758d3b55e765b321dca7d70888a",
+      "source": "/Users/kimmac/Documents/Project/돈 자동화/바이브코딩 릴스/content/reels/제작 자료/stock-png-automatic-2026-10-04-v2/Inputs/card-02.png"
+    },
+    {
+      "number": 3,
+      "file": "03.png",
+      "sha256": "a218823f6b5327ec01bc1918d89c474c2c88b96f204a32dbbba9559b235e2e92",
+      "source": "/Users/kimmac/Documents/Project/돈 자동화/바이브코딩 릴스/content/reels/제작 자료/stock-png-automatic-2026-10-04-v2/Inputs/card-03.png"
+    },
+    {
+      "number": 4,
+      "file": "04.png",
+      "sha256": "ad5ac01ee0ac7ee519b0ad90fec399fcf8a5ee4e8a773ffecfa10c06f3c27ee5",
+      "source": "/Users/kimmac/Documents/Project/돈 자동화/바이브코딩 릴스/content/reels/제작 자료/stock-png-automatic-2026-10-04-v2/Inputs/card-04.png"
+    },
+    {
+      "number": 5,
+      "file": "05.png",
+      "sha256": "0ad4e25cdcf75572067b8cbfbe43ad869842ac2a8abb00ecf5f1224059f0a77d",
+      "source": "/Users/kimmac/Documents/Project/돈 자동화/바이브코딩 릴스/content/reels/제작 자료/stock-png-automatic-2026-10-04-v2/Inputs/card-05.png"
+    },
+    {
+      "number": 6,
+      "file": "06.png",
+      "sha256": "946ccf1f4fce080d09970e0791424db1ff0e063b01efb5e54e04350f5bf68db5",
+      "source": "/Users/kimmac/Documents/Project/돈 자동화/바이브코딩 릴스/content/reels/제작 자료/stock-png-automatic-2026-10-04-v2/Inputs/card-06.png"
+    },
+    {
+      "number": 7,
+      "file": "07.png",
+      "sha256": "cfc91072eba001b1432c33cda5d9ab5f67cc956b8743d73f72c762a0860e7fd9",
+      "source": "/Users/kimmac/Documents/Project/돈 자동화/바이브코딩 릴스/content/reels/제작 자료/stock-png-automatic-2026-10-04-v2/Inputs/card-07.png"
+    },
+    {
+      "number": 8,
+      "file": "08.png",
+      "sha256": "cd0ee070328132be1904af03a68d4b0bdf1e7e838a4e6f7f82516712db2d3161",
+      "source": "/Users/kimmac/Documents/Project/돈 자동화/바이브코딩 릴스/content/reels/제작 자료/stock-png-automatic-2026-10-04-v2/Inputs/card-08.png"
+    },
+    {
+      "number": 9,
+      "file": "09.png",
+      "sha256": "f279afea5a390cbb03781b4b724a91c6bdf25cd92353aab7c967d88bacefbd19",
+      "source": "/Users/kimmac/Documents/Project/돈 자동화/바이브코딩 릴스/content/reels/제작 자료/stock-png-automatic-2026-10-04-v2/Inputs/card-09.png"
+    }
+  ]
+}

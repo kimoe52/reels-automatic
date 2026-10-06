@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "17869072650643341",
+    "permalink": "https://www.threads.com/@sto.ckai/post/Dddb7K6kpEA"
+  },
+  "theme": "gray",
+  "cards": [
+    {
+      "file": "01-cover_band.png",
+      "layout": "cover_band",
+      "boxes": [
+        {
+          "name": "art",
+          "box": [
+            0,
+            0,
+            1080,
+            900
+          ],
+          "radius": 0
+        },
+        {
+          "name": "band",
+          "box": [
+            0,
+            881,
+            1080,
+            1350
+          ],
+          "radius": 0
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "02-ranked.png",
+      "layout": "ranked",
+      "boxes": [
+        {
+          "name": "tag",
+          "box": [
+            64,
+            427,
+            1016,
+            505
+          ],
+          "radius": 999
+        },
+        {
+          "name": "art",
+          "box": [
+            48,
+            535,
+            1032,
+            1143
+          ],
+          "radius": 44
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "03-ranked.png",
+      "layout": "ranked",
+      "boxes": [
+        {
+          "name": "tag",
+          "box": [
+            64,
+            427,
+            1016,
+            505
+          ],
+          "radius": 999
+        },
+        {
+          "name": "art",
+          "box": [
+            48,
+            535,
+            1032,
+            1143
+          ],
+          "radius": 44
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "04-grid.png",
+      "layout": "grid",
+      "boxes": [
+        {
+          "name": "tile1",
+          "box": [
+            48,
+            385,
+            528,
+            832
+          ],
+          "radius": 40
+        },
+        {
+          "name": "tile2",
+          "box": [
+            552,
+            385,
+            1032,
+            832
+          ],
+          "radius": 40
+        },
+        {
+          "name": "tile3",
+          "box": [
+            48,
+            856,
+            528,
+            1302
+          ],
+          "radius": 40
+        },
+        {
+          "name": "tile4",
+          "box": [
+            552,
+            856,
+            1032,
+            1302
+          ],
+          "radius": 40
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "05-cta.png",
+      "layout": "cta",
+      "boxes": [
+        {
+          "name": "point1",
+          "box": [
+            64,
+            523,
+            704,
+            587
+          ],
+          "radius": 0
+        },
+        {
+          "name": "point2",
+          "box": [
+            64,
+            609,
+            704,
+            673
+          ],
+          "radius": 0
+        },
+        {
+          "name": "point3",
+          "box": [
+            64,
+            695,
+            704,
+            759
+          ],
+          "radius": 0
+        }
+      ],
+      "problems": []
+    }
+  ]
+}

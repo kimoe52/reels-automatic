@@ -1,0 +1,88 @@
+{
+  "handle": "@sto.ckai",
+  "series": "AI 도구 노트",
+  "theme": "mono",
+  "source": {
+    "id": "18337102672257921",
+    "permalink": "https://www.threads.com/@sto.ckai/post/Ddf37fFEl0f"
+  },
+  "cards": [
+    {
+      "layout": "cover_band",
+      "kicker": "학생이면 알아두면 좋은",
+      "title": "무료로 쓰는\n{챗지피티 과외쌤}",
+      "visual": "human"
+    },
+    {
+      "layout": "memo",
+      "label": "뭐가 다른가?",
+      "title": "정답 대신 [힌트부터]",
+      "items": [
+        {
+          "title": "먼저 확인",
+          "text": "내가 어디까지 아는지 먼저 확인해요"
+        },
+        {
+          "title": "한 단계씩",
+          "text": "정답 대신 힌트를 주고\n한 단계씩 직접 풀게 해요"
+        },
+        {
+          "title": "틀리면 설명",
+          "text": "왜 틀렸는지 설명하고\n이해했는지 다시 확인해요"
+        }
+      ]
+    },
+    {
+      "layout": "grid",
+      "title": "이렇게 {활용}해요",
+      "items": [
+        {
+          "icon": "pencil",
+          "name": "토익 한 문제씩",
+          "text": "토익 문제 한 문제씩 풀기"
+        },
+        {
+          "icon": "check",
+          "name": "시험 범위 퀴즈",
+          "text": "시험 범위 퀴즈 만들기"
+        },
+        {
+          "icon": "search_doc",
+          "name": "오답 분석",
+          "text": "틀린 문제 오답 분석하기"
+        },
+        {
+          "icon": "folder",
+          "name": "PDF로 공부",
+          "text": "PDF·강의자료 기반\n시험공부하기"
+        }
+      ]
+    },
+    {
+      "layout": "prompt",
+      "label": "예를 들어",
+      "title": "PDF 올리고 [이렇게]",
+      "box_label": "이렇게 입력",
+      "prompt": "이 범위에서 한 문제씩 내줘.\n내가 답하기 전까지 정답은 말하지 마.",
+      "after": "채팅창에서 {@공부하기}를 선택하면\n공부 모드로 전환돼요."
+    },
+    {
+      "layout": "cta",
+      "kicker": "외우고 이해해야 할 때",
+      "title": "저장해두고\n{공부할 때} 써보세요",
+      "points": [
+        "정답 대신 힌트부터",
+        "PDF·강의자료로 문제 풀기",
+        "@공부하기로 켜기"
+      ],
+      "character": "human",
+      "sources_label": "원문",
+      "sources": [
+        [
+          "Threads",
+          "threads.com/@sto.ckai/post/Ddf37fFEl0f"
+        ]
+      ]
+    }
+  ]
+}

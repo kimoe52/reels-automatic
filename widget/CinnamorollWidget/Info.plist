@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>ko</string>
+	<key>CFBundleExecutable</key>
+	<string>CinnamorollThreadsWidget</string>
+	<key>CFBundleIdentifier</key>
+	<string>ai.codex.cinnamoroll-threads-widget</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>시나모롤 콘텐츠 위젯</string>
+	<key>CFBundleDisplayName</key>
+	<string>시나모롤 콘텐츠 위젯</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>LSUIElement</key>
+	<false/>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>선택한 바이브코딩 릴스 프로젝트의 초안을 읽고 카드·영상 결과를 저장하기 위해 접근이 필요합니다</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>전용 Safari ChatGPT 창에서 카드 이미지를 생성하고 검수·다운로드하기 위해 Safari 제어가 필요합니다 다른 탭·쿠키·인증 정보는 읽지 않습니다</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>ChatGPT의 다운로드 버튼으로 저장한 새 카드 이미지 원본만 프로젝트로 복사합니다 기존 다운로드 파일은 변경하지 않습니다</string>
+</dict>
+</plist>

@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "18337102672257921",
+    "permalink": "https://www.threads.com/@sto.ckai/post/Ddf37fFEl0f"
+  },
+  "theme": "mono",
+  "cards": [
+    {
+      "file": "01-cover_band.png",
+      "layout": "cover_band",
+      "boxes": [
+        {
+          "name": "art",
+          "box": [
+            0,
+            0,
+            1080,
+            900
+          ],
+          "radius": 0
+        },
+        {
+          "name": "band",
+          "box": [
+            0,
+            881,
+            1080,
+            1350
+          ],
+          "radius": 0
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "02-memo.png",
+      "layout": "memo",
+      "boxes": [
+        {
+          "name": "memo1",
+          "box": [
+            63,
+            487,
+            1017,
+            681
+          ],
+          "radius": 18
+        },
+        {
+          "name": "memo2",
+          "box": [
+            63,
+            704,
+            1017,
+            942
+          ],
+          "radius": 18
+        },
+        {
+          "name": "memo3",
+          "box": [
+            63,
+            965,
+            1017,
+            1205
+          ],
+          "radius": 18
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "03-grid.png",
+      "layout": "grid",
+      "boxes": [
+        {
+          "name": "tile1",
+          "box": [
+            48,
+            287,
+            528,
+            783
+          ],
+          "radius": 40
+        },
+        {
+          "name": "tile2",
+          "box": [
+            552,
+            287,
+            1032,
+            783
+          ],
+          "radius": 40
+        },
+        {
+          "name": "tile3",
+          "box": [
+            48,
+            807,
+            528,
+            1302
+          ],
+          "radius": 40
+        },
+        {
+          "name": "tile4",
+          "box": [
+            552,
+            807,
+            1032,
+            1302
+          ],
+          "radius": 40
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "04-prompt.png",
+      "layout": "prompt",
+      "boxes": [
+        {
+          "name": "prompt",
+          "box": [
+            48,
+            395,
+            1032,
+            695
+          ],
+          "radius": 36
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "05-cta.png",
+      "layout": "cta",
+      "boxes": [
+        {
+          "name": "point1",
+          "box": [
+            64,
+            523,
+            704,
+            587
+          ],
+          "radius": 0
+        },
+        {
+          "name": "point2",
+          "box": [
+            64,
+            609,
+            704,
+            673
+          ],
+          "radius": 0
+        },
+        {
+          "name": "point3",
+          "box": [
+            64,
+            695,
+            704,
+            759
+          ],
+          "radius": 0
+        }
+      ],
+      "problems": []
+    }
+  ]
+}

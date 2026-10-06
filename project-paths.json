@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "paths": {
+    "queue": "automation/meta-threads/queue",
+    "cards_library": "content/card-news/generated",
+    "cards_references": "content/card-news/references/주식 첫 투자",
+    "reels_root": "content/reels",
+    "reels_work": "content/reels/제작 자료",
+    "reels_videos": "content/reels/완성 영상",
+    "reels_proofs": "content/reels/검수 이미지",
+    "design_notes": "research/디자인 기획",
+    "motion_guides": "research/reference-collection/모션효과 가이드",
+    "legacy_prototypes": "production/vllo/이전 시안",
+    "scratch": ".work"
+  }
+}

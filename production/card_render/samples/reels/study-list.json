@@ -1,0 +1,99 @@
+{
+  "style": "list",
+  "theme": "mono",
+  "duration": 29.2,
+  "fps": 30,
+  "audio": null,
+  "scenes": [
+    {
+      "kind": "hook",
+      "start": 0.0,
+      "end": 2.4,
+      "captions": []
+    },
+    {
+      "kind": "entry",
+      "start": 2.4,
+      "end": 4.95,
+      "captions": [
+        "내가 어디까지 아는지 먼저 확인해요"
+      ]
+    },
+    {
+      "kind": "entry",
+      "start": 4.95,
+      "end": 8.6,
+      "captions": [
+        "정답 대신 힌트를 주고",
+        "한 단계씩 직접 풀게 해요"
+      ]
+    },
+    {
+      "kind": "entry",
+      "start": 8.6,
+      "end": 12.35,
+      "captions": [
+        "왜 틀렸는지 설명하고",
+        "이해했는지 다시 확인해요"
+      ]
+    },
+    {
+      "kind": "entry",
+      "start": 12.35,
+      "end": 14.4,
+      "captions": [
+        "토익 문제 한 문제씩 풀기"
+      ]
+    },
+    {
+      "kind": "entry",
+      "start": 14.4,
+      "end": 16.35,
+      "captions": [
+        "시험 범위 퀴즈 만들기"
+      ]
+    },
+    {
+      "kind": "entry",
+      "start": 16.35,
+      "end": 18.4,
+      "captions": [
+        "틀린 문제 오답 분석하기"
+      ]
+    },
+    {
+      "kind": "entry",
+      "start": 18.4,
+      "end": 21.05,
+      "captions": [
+        "PDF·강의자료 기반 시험공부하기"
+      ]
+    },
+    {
+      "kind": "entry",
+      "start": 21.05,
+      "end": 25.6,
+      "captions": [
+        "이 범위에서 한 문제씩 내줘.",
+        "내가 답하기 전까지 정답은 말하지 마."
+      ]
+    },
+    {
+      "kind": "cta",
+      "start": 25.6,
+      "end": 29.2,
+      "captions": []
+    }
+  ],
+  "problems": [],
+  "frames": 876,
+  "captured": 212,
+  "width": 1080,
+  "height": 1920,
+  "encoded_duration": 29.2,
+  "encoded_fps": 30.0,
+  "encoded_frames": 876,
+  "has_audio": false,
+  "video": "samples/reels/study-list.mp4",
+  "proof": "samples/reels/study-list-proof.png"
+}

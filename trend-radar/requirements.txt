@@ -1,0 +1,4 @@
+# One-off trend batch dependencies. Install only in this folder's temporary venv.
+# Pinned 2026-09-29; both resolve on Python 3.14.
+typesafe-sdk==0.7.2
+pandas==3.0.6

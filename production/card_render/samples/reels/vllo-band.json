@@ -1,0 +1,58 @@
+{
+  "style": "band",
+  "theme": "mint",
+  "duration": 20.239,
+  "fps": 30,
+  "audio": null,
+  "scenes": [
+    {
+      "kind": "hook",
+      "start": 0.0,
+      "end": 4.466,
+      "captions": [
+        "둘 다 AI로 편집이 되지만",
+        "AI가 개입하는 방식이 달라요"
+      ]
+    },
+    {
+      "kind": "versus",
+      "start": 4.466,
+      "end": 7.652,
+      "captions": [
+        "마우스를 맡기냐, 엔진을 넘기냐"
+      ]
+    },
+    {
+      "kind": "keyword",
+      "start": 7.652,
+      "end": 12.375,
+      "captions": [
+        "사람이 하듯 VLLO 화면을",
+        "직접 눌러서 편집해요"
+      ]
+    },
+    {
+      "kind": "rows",
+      "start": 12.375,
+      "end": 16.538,
+      "captions": []
+    },
+    {
+      "kind": "cta",
+      "start": 16.538,
+      "end": 20.239,
+      "captions": []
+    }
+  ],
+  "problems": [],
+  "frames": 607,
+  "captured": 230,
+  "width": 1080,
+  "height": 1920,
+  "encoded_duration": 20.233333,
+  "encoded_fps": 30.0,
+  "encoded_frames": 607,
+  "has_audio": false,
+  "video": "samples/reels/vllo-band.mp4",
+  "proof": "samples/reels/vllo-band-proof.png"
+}

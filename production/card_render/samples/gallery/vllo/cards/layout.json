@@ -1,0 +1,154 @@
+{
+  "source": {
+    "id": "17915652486256246",
+    "permalink": "https://www.threads.com/@sto.ckai/post/DdvLZj9kpbc"
+  },
+  "theme": "mint",
+  "cards": [
+    {
+      "file": "01-cover_vs.png",
+      "layout": "cover_vs",
+      "boxes": [
+        {
+          "name": "vs",
+          "box": [
+            64,
+            158,
+            1016,
+            690
+          ],
+          "radius": 0
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "02-split.png",
+      "layout": "split",
+      "boxes": [
+        {
+          "name": "light",
+          "box": [
+            48,
+            394,
+            540,
+            1180
+          ],
+          "radius": 0
+        },
+        {
+          "name": "dark",
+          "box": [
+            540,
+            394,
+            1032,
+            1180
+          ],
+          "radius": 0
+        },
+        {
+          "name": "verdict",
+          "box": [
+            48,
+            1206,
+            1032,
+            1306
+          ],
+          "radius": 32
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "03-keyword.png",
+      "layout": "keyword",
+      "boxes": [
+        {
+          "name": "keyword",
+          "box": [
+            64,
+            253,
+            1016,
+            757
+          ],
+          "radius": 0
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "04-memo.png",
+      "layout": "memo",
+      "boxes": [
+        {
+          "name": "memo1",
+          "box": [
+            63,
+            468,
+            1017,
+            708
+          ],
+          "radius": 18
+        },
+        {
+          "name": "memo2",
+          "box": [
+            63,
+            731,
+            1017,
+            970
+          ],
+          "radius": 18
+        },
+        {
+          "name": "memo3",
+          "box": [
+            63,
+            993,
+            1017,
+            1233
+          ],
+          "radius": 18
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "05-cta.png",
+      "layout": "cta",
+      "boxes": [
+        {
+          "name": "point1",
+          "box": [
+            64,
+            523,
+            704,
+            587
+          ],
+          "radius": 0
+        },
+        {
+          "name": "point2",
+          "box": [
+            64,
+            609,
+            704,
+            673
+          ],
+          "radius": 0
+        },
+        {
+          "name": "point3",
+          "box": [
+            64,
+            695,
+            704,
+            759
+          ],
+          "radius": 0
+        }
+      ],
+      "problems": []
+    }
+  ]
+}

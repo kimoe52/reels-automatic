@@ -1,0 +1,66 @@
+{
+  "handle": "@sto.ckai",
+  "series": "AI 도구 노트",
+  "theme": "kraft",
+  "source": {
+    "id": "18037974464654118",
+    "permalink": "https://www.threads.com/@sto.ckai/post/DdTEhLLEhO-"
+  },
+  "cards": [
+    {
+      "layout": "cover_band",
+      "kicker": "Codex 로컬 메모리",
+      "title": "켜두면\n{뭐가 좋냐면}",
+      "visual": "creature"
+    },
+    {
+      "layout": "keyword",
+      "kicker": "한 줄로 말하면",
+      "text": "반복 설명은 줄고\n[내 작업 방식]에\n더 빨리 맞춰져요",
+      "sub": "다음 채팅에서도 참고하게\n내 컴퓨터에 기억해두는 기능"
+    },
+    {
+      "layout": "prompt",
+      "label": "예를 들어",
+      "title": "매번 하던 {이런 말}",
+      "box_label": "자주 하는 말",
+      "prompt": "모바일 먼저 확인해\n이 패키지는 쓰지 마\n배포 전에 build 꼭 돌려",
+      "after": "이런 말을 매번 처음부터\n다시 설명할 일이 줄어요."
+    },
+    {
+      "layout": "split",
+      "label": "장단점",
+      "title": "장점은 {단순해요}",
+      "left": {
+        "name": "장점",
+        "text": "반복 설명 줄고\n새 채팅에서도 빨리 맞춰짐",
+        "icon": "bolt"
+      },
+      "right": {
+        "name": "단점",
+        "text": "잘못 기억한 내용까지\n이어질 수 있음",
+        "icon": "alert_document"
+      },
+      "verdict": "Codex 자주 쓰면 {ON} 추천"
+    },
+    {
+      "layout": "cta",
+      "kicker": "대신 절대 지켜야 할 규칙은",
+      "title": "{AGENTS.md}에\n따로 적어두세요",
+      "icon": "lock",
+      "points": [
+        "자주 쓰면 로컬 메모리 ON",
+        "잘못 기억한 내용은 주의",
+        "프로젝트 규칙은 AGENTS.md"
+      ],
+      "character": "creature",
+      "sources_label": "원문",
+      "sources": [
+        [
+          "Threads",
+          "threads.com/@sto.ckai/post/DdTEhLLEhO-"
+        ]
+      ]
+    }
+  ]
+}

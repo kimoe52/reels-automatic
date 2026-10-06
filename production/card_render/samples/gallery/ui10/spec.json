@@ -1,0 +1,21 @@
+{
+  "handle": "@sto.ckai",
+  "series": "AI 도구 노트",
+  "theme": "gray",
+  "source": {"id": "17869072650643341", "permalink": "https://www.threads.com/@sto.ckai/post/Dddb7K6kpEA"},
+  "cards": [
+    {"layout": "cover_band", "kicker": "앱 만들 때 참고", "title": "요즘 많이 보이는\n{모바일 UI} 스타일", "number": "10가지",
+     "visual": "icons", "icons": ["star", "moon", "drop"]},
+    {"layout": "ranked", "rank": "01", "name": "Playful UI", "tag": "둥근 요소 + 밝은 컬러", "text": "캐릭터로\n귀엽고 친근하게", "icon": "star"},
+    {"layout": "ranked", "rank": "02", "name": "Glassmorphism", "tag": "반투명 카드 + 블러", "text": "레이어로\n유리 같은 느낌", "icon": "image"},
+    {"layout": "grid", "label": "03~06", "title": "한눈에 {비교}",
+     "items": [
+       {"icon": "moon", "name": "Dark UI", "text": "어두운 배경 + 높은 대비"},
+       {"icon": "cloud", "name": "Soft UI", "text": "저채도 + 부드러운 그림자"},
+       {"icon": "drop", "name": "Liquid Glass", "text": "투명 소재 + 굴절 + 반사"},
+       {"icon": "shapes", "name": "Material 3 Expressive", "text": "큰 버튼 + 다양한 도형"}]},
+    {"layout": "cta", "kicker": "같은 기능의 앱이어도", "title": "스타일만 바꿔도\n{인상이} 달라져요",
+     "points": ["색 · 카드 모양", "타이포 · 레이아웃", "저장해두고 앱 만들 때 참고"], "character": "human",
+     "sources_label": "원문", "sources": [["Threads", "threads.com/@sto.ckai/post/Dddb7K6kpEA"]]}
+  ]
+}

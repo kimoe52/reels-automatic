@@ -1,0 +1,144 @@
+{
+  "source": {
+    "id": "18037974464654118",
+    "permalink": "https://www.threads.com/@sto.ckai/post/DdTEhLLEhO-"
+  },
+  "theme": "kraft",
+  "cards": [
+    {
+      "file": "01-cover_band.png",
+      "layout": "cover_band",
+      "boxes": [
+        {
+          "name": "art",
+          "box": [
+            0,
+            0,
+            1080,
+            900
+          ],
+          "radius": 0
+        },
+        {
+          "name": "band",
+          "box": [
+            0,
+            897,
+            1080,
+            1350
+          ],
+          "radius": 0
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "02-keyword.png",
+      "layout": "keyword",
+      "boxes": [
+        {
+          "name": "keyword",
+          "box": [
+            64,
+            253,
+            1016,
+            727
+          ],
+          "radius": 0
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "03-prompt.png",
+      "layout": "prompt",
+      "boxes": [
+        {
+          "name": "prompt",
+          "box": [
+            48,
+            404,
+            1032,
+            773
+          ],
+          "radius": 36
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "04-split.png",
+      "layout": "split",
+      "boxes": [
+        {
+          "name": "light",
+          "box": [
+            48,
+            394,
+            540,
+            1180
+          ],
+          "radius": 0
+        },
+        {
+          "name": "dark",
+          "box": [
+            540,
+            394,
+            1032,
+            1180
+          ],
+          "radius": 0
+        },
+        {
+          "name": "verdict",
+          "box": [
+            48,
+            1206,
+            1032,
+            1306
+          ],
+          "radius": 32
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "05-cta.png",
+      "layout": "cta",
+      "boxes": [
+        {
+          "name": "point1",
+          "box": [
+            64,
+            523,
+            704,
+            587
+          ],
+          "radius": 0
+        },
+        {
+          "name": "point2",
+          "box": [
+            64,
+            609,
+            704,
+            673
+          ],
+          "radius": 0
+        },
+        {
+          "name": "point3",
+          "box": [
+            64,
+            695,
+            704,
+            759
+          ],
+          "radius": 0
+        }
+      ],
+      "problems": []
+    }
+  ]
+}

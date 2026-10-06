@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=__WIDTH__, height=__HEIGHT__">
+  <script src="assets/gsap.min.js"></script>
+  <script src="assets/motion_effects.js"></script>
+  <style>
+    @font-face {
+      font-family: Pretendard;
+      src: url("assets/PretendardVariable.ttf") format("truetype");
+      font-style: normal;
+      font-weight: 100 900;
+    }
+    * { box-sizing: border-box; }
+    html, body { width: 100%; height: 100%; margin: 0; }
+    #root {
+      position: relative;
+      width: __WIDTH__px;
+      height: __HEIGHT__px;
+      overflow: hidden;
+      background: __FIELD__;
+      color: #180c24;
+      font-family: Pretendard, sans-serif;
+    }
+    .clip, .scene, .camera { position: absolute; inset: 0; }
+    .scene { overflow: hidden; will-change: transform, opacity; }
+    .scene-background {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: fill;
+      background: var(--scene-field);
+    }
+    .camera {
+      transform-origin: 50% 49%;
+      will-change: transform;
+    }
+    .stage-plate, .original-hold {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: fill;
+    }
+    .moving-element, .focus-ring {
+      position: absolute;
+      object-fit: fill;
+      transform-origin: center;
+      will-change: transform, opacity;
+    }
+    .original-hold { opacity: 0; }
+    .motion-group { isolation: isolate; }
+    .source-piece { position: absolute; object-fit: fill; }
+    .focus-ring { opacity: 0; }
+    .series-header {
+      position: absolute;
+      top: 83px;
+      left: 54px;
+      right: 54px;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      font-size: 29px;
+      font-weight: 570;
+      letter-spacing: -0.03em;
+      line-height: 1;
+      white-space: nowrap;
+      color: var(--header-ink);
+    }
+    .series-header span:last-child {
+      font-size: 28px;
+      font-variant-numeric: tabular-nums;
+    }
+    .progress {
+      position: absolute;
+      top: 211px;
+      left: 54px;
+      right: 54px;
+      height: 6px;
+      display: flex;
+      gap: 11px;
+    }
+    .progress-segment {
+      flex: 1;
+      position: relative;
+      border-radius: 999px;
+      overflow: hidden;
+      background: var(--progress-track);
+    }
+    .progress-segment.done { background: var(--progress-active); }
+    .progress-segment i {
+      display: block;
+      width: 100%;
+      height: 100%;
+      background: var(--progress-active);
+      transform: scaleX(0);
+      transform-origin: left center;
+      border-radius: inherit;
+    }
+  </style>
+</head>
+<body>
+  <div id="root" data-composition-id="card-motion" data-start="0"
+       data-duration="__DURATION__" data-width="__WIDTH__" data-height="__HEIGHT__" data-fps="30">
+    __SCENES__
+    __SOUNDS__
+  </div>
+  <script>
+    const cards = __PLAN__;
+    const timeline = gsap.timeline({ paused: true });
+    for (const card of cards) {
+      const scene = document.getElementById(card.id);
+      const camera = scene.querySelector(".camera");
+      const entry = card.start;
+      const contentStart = card.pageStart;
+
+      timeline.fromTo(scene,
+        { x: 64, opacity: 0 },
+        { x: 0, opacity: 1, duration: 0.22, ease: "power3.out" }, entry);
+      if (!card.rigidCanvas) {
+      timeline.fromTo(camera,
+        { y: 22, scale: 1.035 },
+        { y: 0, scale: 1, duration: 0.36, ease: "power3.out" }, entry);
+      timeline.to(camera,
+        { y: -8, scale: 1.012, duration: Math.max(0.5, card.pageDuration - 0.38),
+          ease: "none" }, entry + 0.36);
+      }
+
+      for (const item of card.moving) {
+        const target = document.getElementById(item.id);
+        CardMotionEffects.animate(timeline, target, item, contentStart + item.delay);
+      }
+      for (const focus of card.focuses) {
+        const target = document.getElementById(focus.id);
+        const at = contentStart + focus.delay;
+        timeline.fromTo(target, { opacity: 0, scale: 1.028 },
+          { opacity: 0.84, scale: 1, duration: 0.16, ease: "power2.out" }, at);
+        timeline.to(target, { opacity: 0, duration: 0.24, ease: "power2.in" }, at + 0.39);
+      }
+      if (card.original) timeline.fromTo(document.getElementById(card.original), { opacity: 0 },
+        { opacity: 1, duration: 0.13, ease: "none" }, contentStart + card.originalHoldAt);
+      for (const backdrop of card.backdrops || []) {
+        timeline.fromTo(document.getElementById(backdrop), { opacity: 0 },
+          { opacity: 1, duration: 0.20, ease: "none" }, contentStart + card.originalHoldAt);
+      }
+      timeline.fromTo(document.getElementById(card.progress), { scaleX: 0 },
+        { scaleX: 1, duration: card.pageDuration - 0.08, ease: "none" }, contentStart);
+    }
+    window.__timelines = window.__timelines || {};
+    window.__timelines["card-motion"] = timeline;
+  </script>
+</body>
+</html>

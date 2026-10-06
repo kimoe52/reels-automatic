@@ -1,0 +1,235 @@
+{
+  "source": {
+    "permalink": "https://www.threads.com/@sto.ckai/post/DdbNSC-ElY-",
+    "timestamp": "2026-09-18T10:20:41+0000",
+    "note": "승인된 AI 이미지 카드(content/card-news/jev-2026-09-25)와 같은 문구를 코드로 다시 그린 비교용 샘플"
+  },
+  "theme": "paper",
+  "cards": [
+    {
+      "file": "01-cover.png",
+      "layout": "cover",
+      "boxes": [
+        {
+          "name": "badge",
+          "box": [
+            64,
+            617,
+            344,
+            749
+          ],
+          "radius": 999
+        },
+        {
+          "name": "art",
+          "box": [
+            540,
+            668,
+            1060,
+            1160
+          ],
+          "radius": 0
+        },
+        {
+          "name": "prop",
+          "box": [
+            53,
+            917,
+            369,
+            1268
+          ],
+          "radius": 0
+        },
+        {
+          "name": "note",
+          "box": [
+            48,
+            1176,
+            1032,
+            1310
+          ],
+          "radius": 36
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "02-compare.png",
+      "layout": "compare",
+      "boxes": [
+        {
+          "name": "left",
+          "box": [
+            48,
+            584,
+            520,
+            1180
+          ],
+          "radius": 44
+        },
+        {
+          "name": "right",
+          "box": [
+            560,
+            584,
+            1032,
+            1180
+          ],
+          "radius": 44
+        },
+        {
+          "name": "note",
+          "box": [
+            48,
+            1218,
+            1032,
+            1310
+          ],
+          "radius": 36
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "03-steps.png",
+      "layout": "steps",
+      "boxes": [
+        {
+          "name": "step1",
+          "box": [
+            48,
+            396,
+            1032,
+            588
+          ],
+          "radius": 44
+        },
+        {
+          "name": "step2",
+          "box": [
+            48,
+            628,
+            1032,
+            928
+          ],
+          "radius": 44
+        },
+        {
+          "name": "step3",
+          "box": [
+            48,
+            968,
+            1032,
+            1156
+          ],
+          "radius": 44
+        },
+        {
+          "name": "note",
+          "box": [
+            48,
+            1218,
+            1032,
+            1310
+          ],
+          "radius": 36
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "04-flow.png",
+      "layout": "flow",
+      "boxes": [
+        {
+          "name": "col1",
+          "box": [
+            48,
+            548,
+            344,
+            1008
+          ],
+          "radius": 40
+        },
+        {
+          "name": "col2",
+          "box": [
+            392,
+            548,
+            688,
+            1008
+          ],
+          "radius": 40
+        },
+        {
+          "name": "col3",
+          "box": [
+            736,
+            548,
+            1032,
+            1008
+          ],
+          "radius": 40
+        },
+        {
+          "name": "note",
+          "box": [
+            48,
+            1218,
+            1032,
+            1310
+          ],
+          "radius": 36
+        }
+      ],
+      "problems": []
+    },
+    {
+      "file": "05-list.png",
+      "layout": "list",
+      "boxes": [
+        {
+          "name": "row1",
+          "box": [
+            48,
+            284,
+            1032,
+            500
+          ],
+          "radius": 44
+        },
+        {
+          "name": "row2",
+          "box": [
+            48,
+            518,
+            1032,
+            734
+          ],
+          "radius": 44
+        },
+        {
+          "name": "row3",
+          "box": [
+            48,
+            752,
+            1032,
+            968
+          ],
+          "radius": 44
+        },
+        {
+          "name": "highlight",
+          "box": [
+            48,
+            986,
+            1032,
+            1190
+          ],
+          "radius": 44
+        }
+      ],
+      "problems": []
+    }
+  ]
+}

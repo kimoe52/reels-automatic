@@ -1,0 +1,37 @@
+.venv/
+.work/
+__pycache__/
+**/__pycache__/
+.DS_Store
+*~
+*.py[cod]
+.env
+.env.*
+locked-format.json
+
+# Local dependencies and packaged app output
+production/card_motion/hyperframes_runtime/node_modules/
+widget/CinnamorollWidget/dist/
+widget/CinnamorollWidget/tests/artifacts/
+
+# Generated cards, renders, proofs, and per-run work packages
+content/card-news/jev-*/
+content/card-news/generated/
+content/reels/제작 자료/
+content/reels/완성 영상/
+content/reels/검수 이미지/
+# Compatibility links to local work packages
+content/reels/chatgpt-cards-*
+content/reels/stock-basics-*
+content/reels/stock-png-*
+content/reels/web-cards-*
+production/card_motion/tests/artifacts/
+production/card_render/samples/reels/*.mp4
+
+production/vllo/*.mp4
+production/flow/*.mp4
+automation/meta-threads/queue/*
+!automation/meta-threads/queue/README.md
+automation/meta-threads/fetch/snapshots/*
+automation/meta-threads/state/*
+!automation/meta-threads/state/.gitkeep

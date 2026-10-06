@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="2520" viewBox="0 0 1800 2520">
+  <defs>
+    <linearGradient id="page" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f7f8"/><stop offset="1" stop-color="#e8eef0"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#121920"/><stop offset="1" stop-color="#26333a"/>
+    </linearGradient>
+    <linearGradient id="lime" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d6fb62"/><stop offset="1" stop-color="#a4e638"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#24323a" flood-opacity=".09"/>
+    </filter>
+    <style>
+      .font { font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; }
+      .ink { fill: #172126; }
+      .muted { fill: #69777d; }
+      .smallcaps { font-size: 17px; font-weight: 750; letter-spacing: 2px; }
+      .shot-title { font-size: 29px; font-weight: 760; letter-spacing: -0.8px; }
+      .body { font-size: 19px; font-weight: 480; }
+      .caption { font-size: 16px; font-weight: 720; }
+      .card { fill: #fff; stroke: #dce4e6; stroke-width: 1.5; }
+      .capture-label { fill: #fff; font-size: 14px; font-weight: 740; letter-spacing: .4px; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <rect width="1800" height="2520" fill="url(#page)"/>
+  <circle cx="1678" cy="116" r="130" fill="#dcf5a4" opacity=".43"/>
+  <circle cx="1712" cy="86" r="63" fill="#b1dfef" opacity=".38"/>
+
+  <g class="font">
+    <rect x="82" y="67" width="205" height="40" rx="20" fill="#18252b"/>
+    <text x="184" y="94" fill="#dcf5a4" font-size="16" font-weight="750" letter-spacing="2" text-anchor="middle">REEL / JEV</text>
+    <text x="82" y="189" class="ink" font-size="73" font-weight="800" letter-spacing="-3">Jev 릴스 스토리보드</text>
+    <text x="86" y="244" class="muted" font-size="24" font-weight="510">실제 공식 화면으로 설명하는 23초 · 이번 편 전용</text>
+    <rect x="1470" y="150" width="225" height="82" rx="22" fill="#fff" stroke="#dce4e6"/>
+    <text x="1582" y="182" class="muted" font-size="14" font-weight="750" letter-spacing="1.5" text-anchor="middle">세로 영상</text>
+    <text x="1582" y="215" class="ink" font-size="27" font-weight="800" text-anchor="middle">9 : 16</text>
+    <text x="84" y="321" class="ink" font-size="18" font-weight="720">화면 우선</text>
+    <text x="217" y="321" class="muted" font-size="18">말하지 않는 얼굴·손 사진 없음</text>
+    <text x="667" y="321" class="muted" font-size="18">제품 화면은 실제 캡처 자리로 표시</text>
+    <text x="1285" y="321" fill="#516369" font-size="18" font-weight="720">NO FAKE UI</text>
+    <path d="M82 350 H1718" stroke="#c9d5d8" stroke-width="2"/>
+
+    <!-- Frame 1 -->
+    <g filter="url(#shadow)"><rect x="78" y="390" width="802" height="500" rx="28" class="card"/></g>
+    <rect x="78" y="390" width="9" height="500" rx="4.5" fill="#fa7357"/>
+    <text x="111" y="433" fill="#de573d" class="smallcaps">01 / HOOK</text>
+    <text x="842" y="433" class="muted" font-size="16" font-weight="700" text-anchor="end">00:00–00:02</text>
+    <rect x="105" y="452" width="213" height="379" rx="24" fill="#10171c"/>
+    <rect x="113" y="460" width="197" height="363" rx="18" fill="url(#screen)"/>
+    <rect x="128" y="477" width="92" height="23" rx="11.5" fill="#28363c"/>
+    <text x="174" y="493" fill="#c8d1d2" font-size="10" font-weight="750" text-anchor="middle" letter-spacing="1">OFFICIAL PAGE</text>
+    <text x="211" y="570" class="capture-label"><tspan x="211">공식 Jev 화면</tspan><tspan x="211" dy="21">캡처 삽입</tspan></text>
+    <rect x="129" y="634" width="164" height="55" rx="11" fill="#0d1317" opacity=".8"/>
+    <text x="211" y="657" fill="#fff" font-size="13" font-weight="750" text-anchor="middle"><tspan x="211">코딩 AI가 막히면,</tspan><tspan x="211" dy="18">다음 수는?</tspan></text>
+<image href="data:image/png;base64,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" x="188" y="690" width="120" height="120" preserveAspectRatio="xMidYMax meet"/>
+    <text x="348" y="493" class="ink shot-title">첫 프레임부터 본론</text>
+    <text x="348" y="535" class="muted body"><tspan x="348">공식 화면을 바로 보여주고,</tspan><tspan x="348" dy="29">작은 뱀 캐릭터는 구석에 원본 그대로.</tspan></text>
+    <rect x="348" y="601" width="484" height="82" rx="16" fill="#fff3ef"/>
+    <text x="370" y="630" fill="#a54331" font-size="14" font-weight="750" letter-spacing="1">화면 자막</text>
+    <text x="370" y="663" class="ink" font-size="23" font-weight="760">“코딩 AI가 막히면, 다음 수는?”</text>
+    <text x="348" y="735" class="muted body"><tspan font-weight="740" fill="#172126">편집</tspan><tspan>  실제 페이지에서 컷 인 · 짧은 홀드</tspan></text>
+    <text x="348" y="775" class="muted body"><tspan font-weight="740" fill="#172126">소리</tspan><tspan>  BGM 첫 박부터 시작</tspan></text>
+    <text x="348" y="833" fill="#869399" font-size="14">캐릭터 외 재생성 이미지 사용 안 함</text>
+
+    <!-- Frame 2 -->
+    <g filter="url(#shadow)"><rect x="920" y="390" width="802" height="500" rx="28" class="card"/></g>
+    <rect x="920" y="390" width="9" height="500" rx="4.5" fill="#48a9a0"/>
+    <text x="953" y="433" fill="#23867e" class="smallcaps">02 / DEFINE</text>
+    <text x="1684" y="433" class="muted" font-size="16" font-weight="700" text-anchor="end">00:02–00:05</text>
+    <rect x="947" y="452" width="213" height="379" rx="24" fill="#10171c"/>
+    <rect x="955" y="460" width="197" height="363" rx="18" fill="url(#screen)"/>
+    <rect x="970" y="477" width="92" height="23" rx="11.5" fill="#28363c"/>
+    <text x="1016" y="493" fill="#c8d1d2" font-size="10" font-weight="750" text-anchor="middle" letter-spacing="1">REAL CAPTURE</text>
+    <text x="1053" y="570" class="capture-label"><tspan x="1053">TypeSafe 공식</tspan><tspan x="1053" dy="21">설명 화면 자리</tspan></text>
+    <rect x="971" y="634" width="165" height="55" rx="11" fill="#0d1317" opacity=".8"/>
+    <text x="1053" y="657" fill="#fff" font-size="12" font-weight="740" text-anchor="middle"><tspan x="1053">Jev는 앱이 읽을</tspan><tspan x="1053" dy="18">판단값을 반환해.</tspan></text>
+    <text x="1190" y="493" class="ink shot-title">역할을 한 문장으로</text>
+    <text x="1190" y="535" class="muted body"><tspan x="1190">공식 설명의 핵심 구절에만</tspan><tspan x="1190" dy="29">천천히 접근. 가짜 브라우저 UI 없음.</tspan></text>
+    <rect x="1190" y="601" width="484" height="82" rx="16" fill="#e9f7f4"/>
+    <text x="1212" y="630" fill="#287f78" font-size="14" font-weight="750" letter-spacing="1">화면 자막</text>
+    <text x="1212" y="663" class="ink" font-size="22" font-weight="760">“앱이 읽을 판단값을 반환해.”</text>
+    <text x="1190" y="735" class="muted body"><tspan font-weight="740" fill="#172126">화면</tspan><tspan>  공식 페이지의 설명 문단 확대</tspan></text>
+    <text x="1190" y="775" class="muted body"><tspan font-weight="740" fill="#172126">편집</tspan><tspan>  강조는 한 구절, 전환은 컷</tspan></text>
+    <text x="1190" y="833" fill="#869399" font-size="14">수치·성능 우위 주장 넣지 않음</text>
+
+    <!-- Frame 3 -->
+    <g filter="url(#shadow)"><rect x="78" y="920" width="802" height="500" rx="28" class="card"/></g>
+    <rect x="78" y="920" width="9" height="500" rx="4.5" fill="#8b77d8"/>
+    <text x="111" y="963" fill="#6855b5" class="smallcaps">03 / SHOW</text>
+    <text x="842" y="963" class="muted" font-size="16" font-weight="700" text-anchor="end">00:05–00:11</text>
+    <rect x="105" y="982" width="213" height="379" rx="24" fill="#10171c"/>
+    <rect x="113" y="990" width="197" height="363" rx="18" fill="url(#screen)"/>
+    <rect x="128" y="1007" width="92" height="23" rx="11.5" fill="#28363c"/>
+    <text x="174" y="1023" fill="#c8d1d2" font-size="10" font-weight="750" text-anchor="middle" letter-spacing="1">OFFICIAL DEMO</text>
+    <text x="211" y="1100" class="capture-label"><tspan x="211">실제 공식 데모</tspan><tspan x="211" dy="21">클립 삽입 자리</tspan></text>
+    <rect x="129" y="1164" width="164" height="55" rx="11" fill="#0d1317" opacity=".8"/>
+    <text x="211" y="1187" fill="#fff" font-size="12" font-weight="740" text-anchor="middle"><tspan x="211">정해 둔 선택지를</tspan><tspan x="211" dy="18">확률과 함께 평가</tspan></text>
+    <text x="348" y="1023" class="ink shot-title">데모의 실제 흐름만</text>
+    <text x="348" y="1065" class="muted body"><tspan x="348">입력과 반환 결과를 원본 그대로.</tspan><tspan x="348" dy="29">실제 결과 확보 전엔 수치를 덧씌우지 않음.</tspan></text>
+    <rect x="348" y="1131" width="484" height="82" rx="16" fill="#f0edfb"/>
+    <text x="370" y="1160" fill="#6855b5" font-size="14" font-weight="750" letter-spacing="1">화면 자막</text>
+    <text x="370" y="1193" class="ink" font-size="22" font-weight="760">“선택지를 확률과 함께 평가.”</text>
+    <text x="348" y="1265" class="muted body"><tspan font-weight="740" fill="#172126">화면</tspan><tspan>  실제 입력·결과 영역으로 이동</tspan></text>
+    <text x="348" y="1305" class="muted body"><tspan font-weight="740" fill="#172126">리듬</tspan><tspan>  읽는 시간은 편집 박자보다 우선</tspan></text>
+    <text x="348" y="1363" fill="#869399" font-size="14">응답 예시를 임의로 만들어 넣지 않음</text>
+
+    <!-- Frame 4 -->
+    <g filter="url(#shadow)"><rect x="920" y="920" width="802" height="500" rx="28" class="card"/></g>
+    <rect x="920" y="920" width="9" height="500" rx="4.5" fill="#83b83e"/>
+    <text x="953" y="963" fill="#5a8a23" class="smallcaps">04 / EXPLAIN</text>
+    <text x="1684" y="963" class="muted" font-size="16" font-weight="700" text-anchor="end">00:11–00:16</text>
+    <rect x="947" y="982" width="213" height="379" rx="24" fill="#10171c"/>
+    <rect x="955" y="990" width="197" height="363" rx="18" fill="#f3f6f2"/>
+    <rect x="969" y="1006" width="169" height="26" rx="13" fill="#e5efdc"/>
+    <text x="1053" y="1024" fill="#557633" font-size="11" font-weight="760" text-anchor="middle" letter-spacing="1">활용 예시 · 개념도</text>
+    <rect x="979" y="1065" width="150" height="48" rx="13" fill="#fff" stroke="#d3ddd0"/>
+    <text x="1054" y="1095" class="ink" font-size="15" font-weight="730" text-anchor="middle">상황 + 선택지</text>
+    <path d="M1054 1118 V1141" stroke="#6d8b4c" stroke-width="3"/><path d="M1048 1135 L1054 1142 L1060 1135" fill="none" stroke="#6d8b4c" stroke-width="3"/>
+    <rect x="979" y="1150" width="150" height="48" rx="13" fill="#d9f477"/>
+    <text x="1054" y="1180" class="ink" font-size="16" font-weight="800" text-anchor="middle">Jev가 판단</text>
+    <path d="M1054 1204 V1227" stroke="#6d8b4c" stroke-width="3"/><path d="M1048 1221 L1054 1228 L1060 1221" fill="none" stroke="#6d8b4c" stroke-width="3"/>
+    <rect x="979" y="1236" width="150" height="48" rx="13" fill="#fff" stroke="#d3ddd0"/>
+    <text x="1054" y="1266" class="ink" font-size="15" font-weight="730" text-anchor="middle">내 프로그램 실행</text>
+    <text x="1053" y="1318" class="muted" font-size="12" text-anchor="middle">재시도 · 다른 도구 · 사람 확인</text>
+    <text x="1190" y="1023" class="ink shot-title">관계를 도식 한 번으로</text>
+    <text x="1190" y="1065" class="muted body"><tspan x="1190">여기만 설명용 개념도. 실제 UI나</tspan><tspan x="1190" dy="29">실행 완료 화면처럼 꾸미지 않음.</tspan></text>
+    <rect x="1190" y="1131" width="484" height="82" rx="16" fill="#f2f8e6"/>
+    <text x="1212" y="1160" fill="#5a8a23" font-size="14" font-weight="750" letter-spacing="1">화면 자막</text>
+    <text x="1212" y="1193" class="ink" font-size="22" font-weight="760">“예: 재시도할지, 사람에게 넘길지.”</text>
+    <text x="1190" y="1265" class="muted body"><tspan font-weight="740" fill="#172126">흐름</tspan><tspan>  상황 → Jev 판단 → 연결한 앱</tspan></text>
+    <text x="1190" y="1305" class="muted body"><tspan font-weight="740" fill="#172126">표시</tspan><tspan>  ‘활용 예시’ 라벨 계속 노출</tspan></text>
+    <text x="1190" y="1363" fill="#869399" font-size="14">가짜 확률·자동 실행 성공 연출 없음</text>
+
+    <!-- Frame 5 -->
+    <g filter="url(#shadow)"><rect x="78" y="1450" width="802" height="500" rx="28" class="card"/></g>
+    <rect x="78" y="1450" width="9" height="500" rx="4.5" fill="#e9aa39"/>
+    <text x="111" y="1493" fill="#aa7414" class="smallcaps">05 / BOUNDARY</text>
+    <text x="842" y="1493" class="muted" font-size="16" font-weight="700" text-anchor="end">00:16–00:21</text>
+    <rect x="105" y="1512" width="213" height="379" rx="24" fill="#10171c"/>
+    <rect x="113" y="1520" width="197" height="363" rx="18" fill="url(#screen)"/>
+    <rect x="128" y="1537" width="92" height="23" rx="11.5" fill="#28363c"/>
+    <text x="174" y="1553" fill="#c8d1d2" font-size="10" font-weight="750" text-anchor="middle" letter-spacing="1">OFFICIAL DOCS</text>
+    <text x="211" y="1630" class="capture-label"><tspan x="211">공식 연결 / 기준</tspan><tspan x="211" dy="21">설명 화면 자리</tspan></text>
+    <rect x="129" y="1694" width="164" height="55" rx="11" fill="#0d1317" opacity=".8"/>
+    <text x="211" y="1717" fill="#fff" font-size="12" font-weight="740" text-anchor="middle"><tspan x="211">실행할지 검토할지</tspan><tspan x="211" dy="18">기준은 앱 코드가 정해</tspan></text>
+    <text x="348" y="1553" class="ink shot-title">경계와 실행 주체</text>
+    <text x="348" y="1595" class="muted body"><tspan x="348">연결 안내의 실제 화면을 잠깐 보여줘.</tspan><tspan x="348" dy="29">실행·임계값은 연결한 프로그램의 몫.</tspan></text>
+    <rect x="348" y="1661" width="484" height="82" rx="16" fill="#fff6e4"/>
+    <text x="370" y="1690" fill="#9a6a16" font-size="14" font-weight="750" letter-spacing="1">화면 자막</text>
+    <text x="370" y="1723" class="ink" font-size="22" font-weight="760">“실행 기준은 앱 코드가 정해.”</text>
+    <text x="348" y="1795" class="muted body"><tspan font-weight="740" fill="#172126">보여줄 것</tspan><tspan>  공식 문서의 연결 안내</tspan></text>
+    <text x="348" y="1835" class="muted body"><tspan font-weight="740" fill="#172126">주의</tspan><tspan>  이미 통합된 기능처럼 말하지 않기</tspan></text>
+    <text x="348" y="1893" fill="#869399" font-size="14">추정 성능·비용·성공률은 언급하지 않음</text>
+
+    <!-- Frame 6 -->
+    <g filter="url(#shadow)"><rect x="920" y="1450" width="802" height="500" rx="28" class="card"/></g>
+    <rect x="920" y="1450" width="9" height="500" rx="4.5" fill="#26343b"/>
+    <text x="953" y="1493" class="ink smallcaps">06 / CLOSE</text>
+    <text x="1684" y="1493" class="muted" font-size="16" font-weight="700" text-anchor="end">00:21–00:23</text>
+    <rect x="947" y="1512" width="213" height="379" rx="24" fill="#10171c"/>
+    <rect x="955" y="1520" width="197" height="363" rx="18" fill="#17242b"/>
+    <rect x="970" y="1537" width="92" height="23" rx="11.5" fill="#28363c"/>
+    <text x="1016" y="1553" fill="#c8d1d2" font-size="10" font-weight="750" text-anchor="middle" letter-spacing="1">TYPESAFE / JEV</text>
+    <text x="1053" y="1640" fill="#fff" font-size="17" font-weight="800" text-anchor="middle"><tspan x="1053">판단은 Jev</tspan><tspan x="1053" dy="27">실행은 앱</tspan></text>
+    <path d="M986 1702 H1120" stroke="#d6fb62" stroke-width="4" stroke-linecap="round"/>
+    <text x="1053" y="1742" fill="#c8d1d2" font-size="13" font-weight="700" text-anchor="middle">typesafe.ai · 출처 노출</text>
+    <text x="1190" y="1553" class="ink shot-title">짧게 정리하고 끝</text>
+    <text x="1190" y="1595" class="muted body"><tspan x="1190">공식 이름과 출처를 남기며</tspan><tspan x="1190" dy="29">음악도 짧은 프레이즈에서 정리.</tspan></text>
+    <rect x="1190" y="1661" width="484" height="82" rx="16" fill="#edf2f3"/>
+    <text x="1212" y="1690" class="muted" font-size="14" font-weight="750" letter-spacing="1">마무리 자막</text>
+    <text x="1212" y="1723" class="ink" font-size="23" font-weight="800">“Jev는 판단. 프로그램은 실행.”</text>
+    <text x="1190" y="1795" class="muted body"><tspan font-weight="740" fill="#172126">화면</tspan><tspan>  공식 출처와 제품명 고정</tspan></text>
+    <text x="1190" y="1835" class="muted body"><tspan font-weight="740" fill="#172126">마침</tspan><tspan>  효과음 없이 음악 프레이즈 컷</tspan></text>
+    <text x="1190" y="1893" fill="#869399" font-size="14">마지막 화면을 별도 광고 카드로 늘리지 않음</text>
+
+    <!-- sound plan -->
+    <rect x="78" y="1990" width="1644" height="245" rx="30" fill="#17242b"/>
+    <rect x="111" y="2025" width="152" height="34" rx="17" fill="#d6fb62"/>
+    <text x="187" y="2048" fill="#26343b" font-size="14" font-weight="800" letter-spacing="1.5" text-anchor="middle">SOUND PLAN</text>
+    <text x="111" y="2112" fill="#fff" font-size="35" font-weight="800">BGM 한 곡, 화면을 받쳐주는 리듬</text>
+    <text x="111" y="2160" fill="#c6d0d3" font-size="19" font-weight="520">인스트루멘털 그루브 탐색 · 대략 100–115 BPM · 실제 청취 후 곡/볼륨 확정</text>
+    <g transform="translate(1150 2050)" fill="#d6fb62">
+      <rect x="0" y="47" width="9" height="35" rx="4"/><rect x="22" y="31" width="9" height="67" rx="4"/><rect x="44" y="40" width="9" height="50" rx="4"/>
+      <rect x="66" y="16" width="9" height="96" rx="4"/><rect x="88" y="35" width="9" height="58" rx="4"/><rect x="110" y="25" width="9" height="77" rx="4"/>
+      <rect x="132" y="45" width="9" height="40" rx="4"/><rect x="154" y="18" width="9" height="92" rx="4"/><rect x="176" y="36" width="9" height="56" rx="4"/>
+      <rect x="198" y="27" width="9" height="76" rx="4"/><rect x="220" y="43" width="9" height="42" rx="4"/><rect x="242" y="13" width="9" height="101" rx="4"/>
+    </g>
+    <line x1="1435" y1="2032" x2="1435" y2="2202" stroke="#3b4a50" stroke-width="2"/>
+    <text x="1470" y="2075" fill="#d6fb62" font-size="15" font-weight="780" letter-spacing="1">보컬/내레이션</text>
+    <text x="1470" y="2105" fill="#fff" font-size="20" font-weight="760">없음</text>
+    <text x="1470" y="2144" fill="#d6fb62" font-size="15" font-weight="780" letter-spacing="1">타자·클릭 SFX</text>
+    <text x="1470" y="2174" fill="#fff" font-size="20" font-weight="760">없음</text>
+    <text x="111" y="2204" fill="#8f9fa3" font-size="15">※ 레퍼런스 음원은 직접 청취 확인되지 않아, 유행 사운드라고 단정하지 않음.</text>
+
+    <text x="82" y="2295" class="ink" font-size="17" font-weight="760">실제 화면 소스</text>
+    <text x="231" y="2295" class="muted" font-size="17">TypeSafe 공식 제품/문서 화면 · typesafe.ai</text>
+    <text x="82" y="2335" class="muted" font-size="15">화면 캡처 확보 전: 편집 시 해당 위치에 공식 캡처/공식 데모 원본을 삽입. 그 외 UI·응답값은 창작하지 않음.</text>
+    <rect x="82" y="2370" width="1636" height="2" fill="#c9d5d8"/>
+    <text x="82" y="2418" fill="#748287" font-size="15" font-weight="650">CONCEPT: 이번 Jev 한 편 한정 · 카드뉴스 아님 · 얼굴/손 사진 없음</text>
+    <text x="1718" y="2418" fill="#748287" font-size="15" font-weight="650" text-anchor="end">24 SEP 2026</text>
+  </g>
+</svg>

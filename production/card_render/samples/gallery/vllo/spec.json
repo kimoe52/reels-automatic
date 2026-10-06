@@ -1,0 +1,24 @@
+{
+  "handle": "@sto.ckai",
+  "series": "AI 도구 노트",
+  "theme": "mint",
+  "source": {"id": "17915652486256246", "permalink": "https://www.threads.com/@sto.ckai/post/DdvLZj9kpbc"},
+  "cards": [
+    {"layout": "cover_vs", "left": "VLLO", "right": "Tesseract", "title": "AI 영상 편집기\n뭐가 다를까?",
+     "subtitle": "둘 다 AI로 편집이 되지만\n{AI가 개입하는 방식}이 달라요", "icons": ["video", "pencil", "bolt"], "character": "human"},
+    {"layout": "split", "label": "결론부터", "title": "AI가 [개입하는 방식]",
+     "left": {"name": "VLLO", "text": "직접 편집하면서\nAI가 보조", "icon": "pencil"},
+     "right": {"name": "Tesseract", "text": "편집 자체를\nAI에게 맡기기", "icon": "gear"},
+     "verdict": "{마우스}를 맡기냐, 엔진을 넘기냐"},
+    {"layout": "keyword", "kicker": "VLLO + AI 에이전트", "text": "AI한테\n{마우스}\n맡기기",
+     "sub": "사람이 하듯 VLLO 화면을\n직접 눌러서 편집해요"},
+    {"layout": "memo", "label": "Tesseract는", "title": "편집 요소를 [직접]",
+     "items": [
+       {"title": "화면을 누르지 않고", "text": "AI가 앱 화면을\n하나씩 누르지 않아요"},
+       {"title": "편집 요소를 수정", "text": "레이어 · 타이밍 · 키프레임\n모션 · 오디오를 직접 고쳐요"},
+       {"title": "편집 엔진에 가까워요", "text": "AI 에이전트가 직접\n영상을 편집하게 만든 엔진"}]},
+    {"layout": "cta", "kicker": "고르는 기준", "title": "직접이면 {VLLO}\n맡기면 {Tesseract}",
+     "points": ["둘 다 AI로 영상 편집 가능", "차이는 AI가 개입하는 방식", "저장해두고 고를 때 참고"], "character": "creature",
+     "sources_label": "원문", "sources": [["Threads", "threads.com/@sto.ckai/post/DdvLZj9kpbc"]]}
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "version": 1,
+  "title": "code-rendered cards",
+  "reviewed": true,
+  "source": "https://www.threads.com/@sto.ckai/post/DdbNSC-ElY-",
+  "seconds_per_card": 6,
+  "fps": 30,
+  "transition": 0.28,
+  "palette": {
+    "paper": "#f4f2ea",
+    "accent": "#0f52ff"
+  },
+  "audio": null,
+  "audio_decision": "silent",
+  "cards": [
+    {
+      "file": "01-cover.png",
+      "tiles": []
+    },
+    {
+      "file": "02-compare.png",
+      "tiles": [
+        {
+          "crop": [
+            46,
+            582,
+            522,
+            1182
+          ],
+          "start": 0.34,
+          "duration": 0.44,
+          "offset": [
+            -64,
+            0
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                48,
+                584,
+                520,
+                1180
+              ],
+              "radius": 44
+            }
+          ]
+        },
+        {
+          "crop": [
+            558,
+            582,
+            1034,
+            1182
+          ],
+          "start": 0.78,
+          "duration": 0.44,
+          "offset": [
+            64,
+            0
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                560,
+                584,
+                1032,
+                1180
+              ],
+              "radius": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "03-steps.png",
+      "tiles": [
+        {
+          "crop": [
+            46,
+            394,
+            1034,
+            590
+          ],
+          "start": 0.34,
+          "duration": 0.44,
+          "offset": [
+            0,
+            42
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                48,
+                396,
+                1032,
+                588
+              ],
+              "radius": 44
+            }
+          ]
+        },
+        {
+          "crop": [
+            46,
+            626,
+            1034,
+            930
+          ],
+          "start": 0.78,
+          "duration": 0.44,
+          "offset": [
+            0,
+            42
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                48,
+                628,
+                1032,
+                928
+              ],
+              "radius": 44
+            }
+          ]
+        },
+        {
+          "crop": [
+            46,
+            966,
+            1034,
+            1158
+          ],
+          "start": 1.22,
+          "duration": 0.44,
+          "offset": [
+            0,
+            42
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                48,
+                968,
+                1032,
+                1156
+              ],
+              "radius": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "04-flow.png",
+      "tiles": [
+        {
+          "crop": [
+            46,
+            546,
+            346,
+            1010
+          ],
+          "start": 0.34,
+          "duration": 0.44,
+          "offset": [
+            -64,
+            0
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                48,
+                548,
+                344,
+                1008
+              ],
+              "radius": 40
+            }
+          ]
+        },
+        {
+          "crop": [
+            390,
+            546,
+            690,
+            1010
+          ],
+          "start": 0.78,
+          "duration": 0.44,
+          "offset": [
+            64,
+            0
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                392,
+                548,
+                688,
+                1008
+              ],
+              "radius": 40
+            }
+          ]
+        },
+        {
+          "crop": [
+            734,
+            546,
+            1034,
+            1010
+          ],
+          "start": 1.22,
+          "duration": 0.44,
+          "offset": [
+            -64,
+            0
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                736,
+                548,
+                1032,
+                1008
+              ],
+              "radius": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "05-list.png",
+      "tiles": [
+        {
+          "crop": [
+            46,
+            282,
+            1034,
+            502
+          ],
+          "start": 0.34,
+          "duration": 0.44,
+          "offset": [
+            0,
+            42
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                48,
+                284,
+                1032,
+                500
+              ],
+              "radius": 44
+            }
+          ]
+        },
+        {
+          "crop": [
+            46,
+            516,
+            1034,
+            736
+          ],
+          "start": 0.78,
+          "duration": 0.44,
+          "offset": [
+            0,
+            42
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                48,
+                518,
+                1032,
+                734
+              ],
+              "radius": 44
+            }
+          ]
+        },
+        {
+          "crop": [
+            46,
+            750,
+            1034,
+            970
+          ],
+          "start": 1.22,
+          "duration": 0.44,
+          "offset": [
+            0,
+            42
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                48,
+                752,
+                1032,
+                968
+              ],
+              "radius": 44
+            }
+          ]
+        },
+        {
+          "crop": [
+            46,
+            984,
+            1034,
+            1192
+          ],
+          "start": 1.66,
+          "duration": 0.44,
+          "offset": [
+            0,
+            42
+          ],
+          "shapes": [
+            {
+              "kind": "round",
+              "box": [
+                48,
+                986,
+                1032,
+                1190
+              ],
+              "radius": 44
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
